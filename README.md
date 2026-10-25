@@ -64,4 +64,4 @@ Users must provide and prepare compatible reference elevation data before runnin
 
 ## Acknowledgments
 
-This work was developed as part of the ISRO Bharatiya Antariksh Hackathon 2025. The project involved contributions from multiple team members. This repository focuses on the Shape-from-Shading and DEM analysis code included here.
+This work was developed as part of the ISRO Bharatiya Antariksh Hackathon 2025. This repository focuses on the Shape-from-Shading and DEM analysis code included here.
