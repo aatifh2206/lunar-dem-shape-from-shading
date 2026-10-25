@@ -1,0 +1,7 @@
+numpy
+scipy
+matplotlib
+imageio
+tifffile
+plotly
+scikit-learn
